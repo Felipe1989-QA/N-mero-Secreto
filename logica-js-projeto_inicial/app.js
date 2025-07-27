@@ -5,7 +5,7 @@ let numeroMaximo = 5000
 let numerosecreto = parseInt(Math.random() * 100+1);
 //exibe prompt para usuário inserir o seu chute
 let chute 
-let Tentativas = 2;
+let Tentativas = 1;
 
 //Enquanto o chute não for igual ao número secreto
 while(chute != numerosecreto){
